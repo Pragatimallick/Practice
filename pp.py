@@ -1,1 +1,1 @@
-print("Pramit")
+print("Pragati")
